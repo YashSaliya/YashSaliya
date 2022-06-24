@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YashSaliya
-- 👀 I’m interested in Machine Learning , Web Technologies, Cloud Computing
-- 🌱 I’m currently learning Spring  
+- 👀 I’m interested in Machine Learning , Web 3.0, Cloud Technologies
+- Looking for open source projects to contribute in 
+-   
 
 <!---
 YashSaliya/YashSaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
